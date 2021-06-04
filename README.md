@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 ✌🏼
 - 🔭 I’m currently working on ... Drupal projects
-- 🌱 I’m currently learning ... Laravel framework
+- 🌱 I’m currently learning ... React then would jump on Laravel framework
 - 👯 I’m looking to collaborate on ... TBD
 - 🤔 I’m looking for help with ... TBD
 - 💬 Ask me about ... Drupal
